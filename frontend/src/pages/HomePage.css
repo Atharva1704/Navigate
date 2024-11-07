@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.content{
+    /* background-color: #FF5F1F; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px;
+    /* margin: 20px; */
+    width: 80vw;
+}
+
+/* .navbar{
+    width: 80wh;
+} */
